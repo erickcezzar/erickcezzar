@@ -8,7 +8,7 @@
 ## **Stats**
 ![Stats](https://github-readme-stats.vercel.app/api?username=erickcezzar&show_icons=true&theme=dark)
 
-![snake animation](https://raw.githubusercontent.com/erickcezzar/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/erickcezzar/github-contribution-grid-snake/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 
