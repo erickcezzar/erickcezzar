@@ -5,8 +5,12 @@
 - 📚 Interesse em computação quântica
 
 
-## **Stats**
+## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=erickcezzar&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcezzar&layout=compact&theme=dark)
+
+
 
 ![snake animation](https://raw.githubusercontent.com/erickcezzar/github-contribution-grid-snake/refs/heads/output/github-contribution-grid-snake.svg)
 
