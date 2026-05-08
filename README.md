@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/erick-cezar-818b03192" target="[_blank]">
     <img src="https://img.shields.io/badge/LinkedIn-ErickCezar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
+  <a href="mailto:erick.silva@confia.net.br" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://dev.to/erickcezzar" target="_blank">
