@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Erick%20Cezzar&fontSize=50&fontAlignY=35&desc=Fullstack%20%7C%20Node.js%20%7C%20React%20%7C%20MySQL&descAlignY=55)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/erickcezzar/" target="[_blank](https://www.linkedin.com/in/erick-cezar-818b03192/)">
+  <a href="https://www.linkedin.com/in/erick-cezar-818b03192" target="[_blank]">
     <img src="https://img.shields.io/badge/LinkedIn-ErickCezar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@exemplo.com" target="_blank">
